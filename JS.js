@@ -9,5 +9,5 @@ function OpenIndex() {
  }
 
 function OpenHome() {
-  location.href = "/marj_nuza/home.html"
+  location.href = "/Marj_Nuza_Official/Home/index.html"
  }
