@@ -43,7 +43,7 @@ nav a{position:relative;padding:29px 0 12px}nav a:after{content:"";position:abso
 
 /* Mobile */
 @media(max-width:800px){
- .hero{min-height:720px}.photo{position:absolute;inset:0;background:url("Marj_Nuza_Official/Home/Assets/hero_mobile.jpg") center/cover no-repeat}.shade{background:linear-gradient(180deg,rgba(2,8,9,.48),rgba(2,8,9,.08) 30%,rgba(2,8,9,.72) 61%,#020809 100%)}
+ .hero{min-height:720px}.photo{position:absolute;inset:0;background:url("./Assets/hero_mobile.jpg") center/cover no-repeat}.shade{background:linear-gradient(180deg,rgba(2,8,9,.48),rgba(2,8,9,.08) 30%,rgba(2,8,9,.72) 61%,#020809 100%)}
  header{height:64px;padding:0 22px;grid-template-columns:1fr auto}.brand{font-size:21px}.social{display:none}
  .hamburger{display:block;border:0;background:none;width:35px}.hamburger i{display:block;width:24px;height:1px;background:white;margin:7px}
  nav{display:none;position:absolute;right:0;top:0;width:min(80vw,350px);height:100svh;background:rgba(2,8,9,.98);padding:95px 35px;flex-direction:column;gap:4px}nav.open{display:flex}nav a{padding:13px 0;font-size:12px}
